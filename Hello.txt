@@ -1,2 +1,6 @@
 asdsd
+<<<<<<< HEAD
 mmmqmqmq
+=======
+asdnsdasd
+>>>>>>> 135d1012e8f13f310598fe04869c7999ebbd1a5f
